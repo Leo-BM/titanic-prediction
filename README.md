@@ -1,4 +1,5 @@
 Análise Exploratória e Criação de Modelo de Classificação para Previsão de Sobrevivência no Titanic
+
 Este projeto teve como objetivo realizar uma análise exploratória na famosa base de dados do Kaggle, "Titanic - Machine Learning from Disaster", e desenvolver um modelo de classificação supervisionado para prever a sobrevivência dos passageiros.
 
 Foi realizada a análise exploratória, o pré-processamento dos dados e, após a avaliação de diferentes algoritmos de classificação, optou-se pelo XGBoost em função de seu desempenho superior na fase de testes iniciais.
